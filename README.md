@@ -1,1 +1,2 @@
-This is Linear Equation Resolver
+# liner-equation-resolver
+ this application can resolve any liner equation
